@@ -2,9 +2,10 @@ body{
     display: flex;
 }
 #clockContainer {
+	display: flex;
 	position: relative;
-    justify-content: center;
-    align-items: center;
+	justify-content: center;
+	align-items: center;
 	margin: auto;
 	height: 60vw;
 	/*to make the height and width responsive*/
