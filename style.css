@@ -49,10 +49,9 @@ body{
     	background-color: red;
 }
 #dot{
-    	align-items: center;
-	justify-content: center;
-	top: 38%;
-	width: 20px;
-	height: 20px;
-   	background-color: gold;
+    	top: 37%;
+	width: 4%;
+	height: 4%;
+	border-radius: 50%;
+    	background-color: gold;
 }
